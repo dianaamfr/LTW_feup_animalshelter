@@ -1,34 +1,35 @@
-# ltw-project-g64
+# Animal Shelter Website - LTW FEUP
 Project for Web Languages and Technologies @ FEUP
 
-# Elements:
- - Diana Freitas (201806230) 
- - Henrique Pereira (201806538)
- - Mariana Ramos (201806869)
- - Teresa Corado (201806479)
+## Pages
+TODO
 
-# Credentials (username/password (role))
+## Elements:
+* [Diana Freitas](https://github.com/dianaamfr)
+* [Henrique Pereira](https://github.com/GodAnri)
+* [Mariana Ramos](https://github.com/marianaramos37)
+* [Teresa Corado](https://github.com/Reesa23)
+
+## Credentials (username/password (role))
  - marcelo_sousa/RatoRoeu12! (user)
  - miram123/Sinceramente6* (user)
  - jacinto1999/Mas?Why55 (user)
  - nuria700/2AiASerio? (user)
 
-# Features:
- - Security
-     - XSS: yes
-     - CSRF: yes
-     - SQL using prepare/execute: yes
-     - Passwords: generated with salt (password_hash)
-     - Data Validation: regex / php / javascript
-     - Other: 
- - Technologies
-     - Separated logic/database/presentation: yes
-     - Semantic HTML tags: yes
-     - Responsive CSS: yes
-     - Javascript: yes
-     - Ajax: yes
-     - REST API: no
-     - Other:
-  Usability:
-     - Error/success messages: yes
-     - Forms don't lose data on error: no
+## Features Checklist:
+### Security
+  - [x] XSS
+  - [x] CSRF
+  - [x] SQL using prepare/execute
+  - [x] Passwords: generated with salt (password_hash)
+  - [x] Data Validation: regex / php / javascript
+### Technologies
+  - [x] Separated logic/database/presentation
+  - [x] Semantic HTML tags
+  - [x] Responsive CSS
+  - [x] Javascript
+  - [x] Ajax
+  - [ ] REST API
+### Usability:
+  - [x] Error/success messages
+  - [ ] Forms don't lose data on error
