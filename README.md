@@ -1,7 +1,7 @@
 # Animal Shelter Website - LTW FEUP
 Project for Web Languages and Technologies @ FEUP
 
-<img src="/ltw_images/mockup2.gif" width="450"/> <img src="/ltw_images/mockup1.gif" width="450"/>
+<img src="/ltw_images/mockup2.gif" width="350"/> <img src="/ltw_images/mockup1.gif" width="350"/>
 
 ## Pages
 
@@ -12,28 +12,28 @@ Project for Web Languages and Technologies @ FEUP
 <img src="/ltw_images/adopt.png" width="300"/> 
 
 ### Pet page 
-<img src="/ltw_images/petPage.png" width="350"/>
+<img src="/ltw_images/petPage.png" width="300"/>
 
 ### Found a Pet
-<img src="/ltw_images/foundPet.png" width="350"/>
+<img src="/ltw_images/foundPet.png" width="300"/>
 
 ### Edit Pet
-<img src="/ltw_images/addPet.png" width="350"/>
+<img src="/ltw_images/addPet.png" width="300"/>
 
 ### Pets I Found
-<img src="/ltw_images/petsIFount.png" width="350"/>
+<img src="/ltw_images/petsIFount.png" width="300"/>
 
 ### Favourites
-<img src="/ltw_images/favourites.png" width="350"/>
+<img src="/ltw_images/favourites.png" width="300"/>
 
 ### Adoption Proposals
-<img src="/ltw_images/proposals.png" width="350"/>  <img src="/ltw_images/proposals2.png" width="400"/>
+<img src="/ltw_images/proposals.png" width="300"/>  <img src="/ltw_images/proposals2.png" width="350"/>
 
 ### Messages/Chat
-<img src="/ltw_images/messages.png" width="350"/>  <img src="/ltw_images/conversations.png" width="350"/>
+<img src="/ltw_images/messages.png" width="300"/>  <img src="/ltw_images/conversations.png" width="300"/>
 
 ### Register, Login, Edit Profile
-<img src="/ltw_images/register.png" width="300"/>  <img src="/ltw_images/signIn.png" width="300"/>  <img src="/ltw_images/editProfile.png" width="300"/>
+<img src="/ltw_images/register.png" width="250"/>  <img src="/ltw_images/signIn.png" width="250"/>  <img src="/ltw_images/editProfile.png" width="250"/>
 
 ## Elements:
 * [Diana Freitas](https://github.com/dianaamfr)
